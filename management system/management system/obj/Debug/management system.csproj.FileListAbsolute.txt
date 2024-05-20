@@ -1,0 +1,13 @@
+C:\Users\Kizu\source\repos\management system\management system\bin\Debug\management system.exe.config
+C:\Users\Kizu\source\repos\management system\management system\bin\Debug\management system.exe
+C:\Users\Kizu\source\repos\management system\management system\bin\Debug\management system.pdb
+C:\Users\Kizu\source\repos\management system\management system\bin\Debug\Guna.UI2.dll
+C:\Users\Kizu\source\repos\management system\management system\obj\Debug\management system.csproj.AssemblyReference.cache
+C:\Users\Kizu\source\repos\management system\management system\obj\Debug\management_system.Form1.resources
+C:\Users\Kizu\source\repos\management system\management system\obj\Debug\management_system.Properties.Resources.resources
+C:\Users\Kizu\source\repos\management system\management system\obj\Debug\management system.csproj.GenerateResource.cache
+C:\Users\Kizu\source\repos\management system\management system\obj\Debug\management system.csproj.CoreCompileInputs.cache
+C:\Users\Kizu\source\repos\management system\management system\obj\Debug\manageme.96DC4398.Up2Date
+C:\Users\Kizu\source\repos\management system\management system\obj\Debug\management system.exe
+C:\Users\Kizu\source\repos\management system\management system\obj\Debug\management system.pdb
+C:\Users\Kizu\source\repos\management system\management system\obj\Debug\management_system.SplashForm2.resources
